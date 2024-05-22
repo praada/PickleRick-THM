@@ -4,7 +4,9 @@
 </p>
 
 Estoy subiendo mi primer Write Up resolviendo una máquina CTF de la plataforma TryHackMe recomendada para principiantes que se interesan por aprender sobre hacking ético/Pentesting.
-
+<p align="center">
+<img src="https://tryhackme-badges.s3.amazonaws.com/praada.png" alt="TryHackMe">
+</p>
 Tenemos esta máquina como dije anteriormente de dificultad **fácil**, en la máquina como principiantes vemos tanto la parte de Reconocimiento, Enumeración, Recuperar los tres ingredientes (Explotación de vulnerabilidades), Escalada de Privilegio (por decir) y Reverse Shell.
 Utilice estas Herramientas para realizar la maquina:
 - nmap
